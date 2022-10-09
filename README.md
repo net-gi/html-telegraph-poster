@@ -16,7 +16,7 @@ About telegram telegra.ph service https://telegram.org/blog/instant-view
 
 ## Installation
 ```Shell
-pip install html-telegraph-poster
+pip install git+https://github.com/kaif-00z/html-telegraph-poster
 ```
 
 ## Usage
