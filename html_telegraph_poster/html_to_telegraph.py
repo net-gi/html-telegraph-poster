@@ -6,9 +6,9 @@ from requests_toolbelt import MultipartEncoder
 from .errors import *
 from .converter import convert_html_to_telegraph_format, convert_json_to_html
 
-base_url = 'http://telegra.ph'
-save_url = 'https://edit.telegra.ph/save'
-api_url = 'https://api.telegra.ph'
+base_url = 'http://graph.org'
+save_url = 'https://edit.graph.org/save'
+api_url = 'https://api.graph.org'
 default_user_agent = 'Python_telegraph_poster/0.1'
 
 
